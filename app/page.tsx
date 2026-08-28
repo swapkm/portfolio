@@ -6,7 +6,6 @@ import { motion } from "motion/react";
 import Hero from "@/components/Hero";
 import AboutMe from "@/components/AboutMe";
 import Portfolio from "@/components/Portfolio";
-import Services from "@/components/Services";
 import Contact from "@/components/Contact";
 
 export default function Home() {
@@ -25,7 +24,6 @@ export default function Home() {
         transition={{ duration: 0.7, ease: "easeOut" }}
       >
         <Hero scrollToPortfolio={scrollToPortfolio} />
-        <Services />
         <div ref={portfolioRef}>
           <Portfolio />
         </div>

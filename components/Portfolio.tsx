@@ -4,13 +4,13 @@ import { motion } from "motion/react";
 
 export default function Portfolio() {
   const verticalVideos = [
-    "yCc4F6O7YDI",
+    "8mOsgs1gczw",
     "6bDZ8f0OlZU",
     "zHiM6tEjwxA",
-    "ux1PeLKem9s",
+    "DC-5ex6la4w",
+    "0KOsBMKv9PA",
     "SmO2TTRQDJ0",
-    "caEzKaB7Shs",
-    "h-S3cQ8YLdY",
+    "yCc4F6O7YDI",
     "n0lG3Fzqxgw",
     "oyrtJV4rsRQ",
     "39B2kvS4XqM",

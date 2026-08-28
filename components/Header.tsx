@@ -17,12 +17,9 @@ export default function Header() {
 
         {/* RIGHT: Desktop Nav */}
         <nav className="hidden md:flex items-center gap-3">
-          <Link href="/#services" className="text-neutral-400 text-xs uppercase tracking-widest hover:text-yellow-500">
-            Services
-          </Link>
-          <Link href="/#about" className="text-neutral-400 text-xs uppercase tracking-widest hover:text-yellow-500">
+          {/* <Link href="/#about" className="text-neutral-400 text-xs uppercase tracking-widest hover:text-yellow-500">
             About
-          </Link>
+          </Link> */}
 
           <Link
             href="tel:+917262022182"
