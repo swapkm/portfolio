@@ -239,7 +239,7 @@ export default function AboutMe() {
               <div className="absolute -left-3 top-2 w-3 h-3 bg-yellow-500 rounded-full"></div>
 
               <h4 className="font-bold">Video Editor, Content Strategist</h4>
-              <p className="text-yellow-500 text-sm mb-2">Imborn Digital • 2025 - Present</p>
+              <p className="text-yellow-500 text-sm mb-2">Imborn Digital • 2024 - Present</p>
 
               <ul className="list-disc ml-5 text-gray-400 text-sm space-y-1">
                 <li>Create branded video & reels</li>
